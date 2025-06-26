@@ -1,0 +1,78 @@
+{
+  "zh-CN": {
+    "popup": {
+      "备注管理": "备注管理"
+    },
+    "storage": {
+      "label": "存储"
+    },
+    "context": {
+      "popup": "弹出窗口",
+      "options": "选项页",
+      "sidepanel": "侧边栏"
+    },
+    "language": {
+      "switch_to_cn": "切换到中文",
+      "switch_to_en": "切换到英文"
+    },
+    "table": {
+      "address": "钱包地址",
+      "note": "备注",
+      "actions": "操作",
+      "add": "新增",
+      "batch_delete": "批量删除",
+      "export": "导出",
+      "import": "导入",
+      "edit": "编辑",
+      "delete": "删除",
+      "save": "保存",
+      "cancel": "取消",
+      "confirm_delete": "确定要删除这条记录吗？",
+      "confirm_batch_delete": "确定要删除选中的 {count} 条记录吗？",
+      "please_select": "请先选择要删除的记录",
+      "import_success": "导入成功",
+      "import_failed": "导入失败，请检查文件格式",
+      "required_fields": "请填写必要信息"
+    }
+  },
+  "en": {
+    "popup": {
+      "备注管理": "Remark Management"
+    },
+    "nav": {
+      "remark_list": "Remark List",
+      "open_options": "Open Options"
+    },
+    "storage": {
+      "label": "Storage"
+    },
+    "context": {
+      "popup": "popup",
+      "options": "options",
+      "sidepanel": "sidepanel"
+    },
+    "language": {
+      "switch_to_cn": "Switch to Chinese",
+      "switch_to_en": "Switch to English"
+    },
+    "table": {
+      "address": "Wallet Address",
+      "note": "Note",
+      "actions": "Actions",
+      "add": "Add",
+      "batch_delete": "Batch Delete",
+      "export": "Export",
+      "import": "Import",
+      "edit": "Edit",
+      "delete": "Delete",
+      "save": "Save",
+      "cancel": "Cancel",
+      "confirm_delete": "Are you sure to delete this record?",
+      "confirm_batch_delete": "Are you sure to delete {count} selected records?",
+      "please_select": "Please select records to delete",
+      "import_success": "Import successful",
+      "import_failed": "Import failed, please check the file format",
+      "required_fields": "Please fill in the required fields"
+    }
+  }
+}
